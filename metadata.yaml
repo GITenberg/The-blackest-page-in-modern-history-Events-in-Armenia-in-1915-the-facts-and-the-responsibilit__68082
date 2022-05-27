@@ -1,5 +1,8 @@
 _repo: The-blackest-page-in-modern-history-Events-in-Armenia-in-1915-the-facts-and-the-responsibilit__68082
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68082-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibbons, Herbert Adams
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25020
     wikipedia: https://en.wikipedia.org/wiki/Herbert_Adams_Gibbons
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68082#The-blackest-page-in-modern-history-Events-in-Armenia-in-1915-the-facts-and-the-responsibilit_
 gutenberg_issued: '2022-05-15'
 identifiers:
   gutenberg: '68082'
